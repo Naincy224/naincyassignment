@@ -1,0 +1,10 @@
+# Create a new repository on the command line
+ 
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+Now create a repo in git hub with the same name of local repo example:-(naincyassignment).
+git remote add origin https://github.com/Naincy224/naincyassignment.git
+git push -u origin master
+ 
